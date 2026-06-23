@@ -1,6 +1,6 @@
 # MoodStream | Full Stack E-Commerce Store
 
-Welcome to **MoodStream**, a complete premium Full Stack E-Commerce Store designed and built as a key capstone project for the **CodeAlpha Full Stack Development Internship**.
+Welcome to **The Accessories**, a complete premium Full Stack E-Commerce Store designed and built as a key capstone project for the **CodeAlpha Full Stack Development Internship**.
 
 MoodStream is a highly responsive web application tailored for tech enthusiasts and workspace designers. It features dynamic catalog searches and filtering, full inventory control, simulated card payments, customer profiles, past order tracking, and a robust administrative control panel for CRUD inventory updates.
 
@@ -36,6 +36,8 @@ MoodStream is a highly responsive web application tailored for tech enthusiasts 
 * **Database**: MongoDB & Mongoose ORM
 * **Auth Scheme**: JSON Web Tokens (JWT) & Local Session storage
 * **Icons Set**: Lucide-react
+<img width="1868" height="1091" alt="Screenshot 2026-06-23 055905" src="https://github.com/user-attachments/assets/a87fda25-f902-4acd-bdfa-302e6e616067" />
+<img width="1857" height="1092" alt="Screenshot 2026-06-23 055947" src="https://github.com/user-attachments/assets/3f4c7ff5-77f2-4aaa-9168-9429717c908b" />
 
 ---
 
